@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ChillKids/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ChillKids/static/js/main.5e61c154.chunk.js",
+    "main.js.map": "/ChillKids/static/js/main.5e61c154.chunk.js.map",
+    "runtime-main.js": "/ChillKids/static/js/runtime-main.0d73c83f.js",
+    "runtime-main.js.map": "/ChillKids/static/js/runtime-main.0d73c83f.js.map",
+    "static/js/2.85967c3c.chunk.js": "/ChillKids/static/js/2.85967c3c.chunk.js",
+    "static/js/2.85967c3c.chunk.js.map": "/ChillKids/static/js/2.85967c3c.chunk.js.map",
+    "index.html": "/ChillKids/index.html",
+    "precache-manifest.0462be4e0815822271eb056dcaa8b8ae.js": "/ChillKids/precache-manifest.0462be4e0815822271eb056dcaa8b8ae.js",
+    "service-worker.js": "/ChillKids/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ChillKids/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.85967c3c.chunk.js.LICENSE.txt": "/ChillKids/static/js/2.85967c3c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ChillKids/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d73c83f.js",
+    "static/js/2.85967c3c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5e61c154.chunk.js"
+  ]
+}
