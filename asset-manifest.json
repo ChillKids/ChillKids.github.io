@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chillkids/static/css/main.5f361e03.chunk.css",
+    "main.js": "/chillkids/static/js/main.28c9d17c.chunk.js",
+    "main.js.map": "/chillkids/static/js/main.28c9d17c.chunk.js.map",
+    "runtime-main.js": "/chillkids/static/js/runtime-main.dbee9f6b.js",
+    "runtime-main.js.map": "/chillkids/static/js/runtime-main.dbee9f6b.js.map",
+    "static/js/2.85967c3c.chunk.js": "/chillkids/static/js/2.85967c3c.chunk.js",
+    "static/js/2.85967c3c.chunk.js.map": "/chillkids/static/js/2.85967c3c.chunk.js.map",
+    "index.html": "/chillkids/index.html",
+    "precache-manifest.9ae42193bc5749b0d164c5c41d32e0db.js": "/chillkids/precache-manifest.9ae42193bc5749b0d164c5c41d32e0db.js",
+    "service-worker.js": "/chillkids/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/chillkids/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.85967c3c.chunk.js.LICENSE.txt": "/chillkids/static/js/2.85967c3c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/chillkids/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbee9f6b.js",
+    "static/js/2.85967c3c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.28c9d17c.chunk.js"
+  ]
+}
