@@ -1,10 +1,6 @@
 import React from 'react';
 
-function Resume({ title, subtitle, resume_id, items }) {
-    var arr = [];
-    Object.keys(items).forEach(function (key) {
-        arr.push(items[key]);
-    });
+function Resume({title, subtitle, resume_id, items }) {
     return (
         <div className="section resume" id={resume_id}>
             <div className="content">
@@ -17,8 +13,7 @@ function Resume({ title, subtitle, resume_id, items }) {
                 <div className="content-carousel">
                     <div className="owl-carousel" data-slidesview="2" data-slidesview_mobile="1">
 
-                        {arr.map(item => <Resumeitem key={item.name} date={item.date} name={item.name} description={item.description} />)}
-
+                        {items.map(item => <ResumeItem key={item.name} date={item.date} name={item.name} description={item.description} />)}
 
 
                     </div>
@@ -35,7 +30,7 @@ function Resume({ title, subtitle, resume_id, items }) {
     );
 }
 
-class Resumeitem {
+class ResumeItem extends React.Component {
     render() {
         return (
             <div className="item">

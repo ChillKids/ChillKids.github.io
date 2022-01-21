@@ -26,7 +26,7 @@ function Lang() {
                             </div>
                         </li>
                         <li>
-                            <div className="name">German</div>
+                            <div className="name">Chinese</div>
                             <div className="single-post-text">
                                 <p>
                                     Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh.
@@ -34,36 +34,11 @@ function Lang() {
                             </div>
                             <div className="progress">
                                 <div className="percentage" style={{width: 70}}>
-                                    <span className="percent">70%</span>
+                                    <span className="percent">90%</span>
                                 </div>
                             </div>
                         </li>
-                        <li>
-                            <div className="name">Italian</div>
-                            <div className="single-post-text">
-                                <p>
-                                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh.
-                                </p>
-                            </div>
-                            <div className="progress">
-                                <div className="percentage" style={{width: 55}}>
-                                    <span className="percent">55%</span>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div className="name">French</div>
-                            <div className="single-post-text">
-                                <p>
-                                    Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh.
-                                </p>
-                            </div>
-                            <div className="progress">
-                                <div className="percentage" style={{width: 85}}>
-                                    <span className="percent">85%</span>
-                                </div>
-                            </div>
-                        </li>
+                       
                     </ul>
                 </div>
 

@@ -17,12 +17,8 @@ function Coding() {
                             <div className="percentage"></div>
                             <span>90%</span>
                         </div>
-                        <div className="name">WordPress</div>
-                        <div className="single-post-text">
-                            <p>
-                                Etiam sit amet orci eget eros faucibus tincidunt.
-                            </p>
-                        </div>
+                        <div className="name">C++</div>
+                        
                     </li>
                     <li>
                         <div className="progress p75">
@@ -30,47 +26,27 @@ function Coding() {
                             <span>75%</span>
                         </div>
                         <div className="name">PHP, MYSQL</div>
-                        <div className="single-post-text">
-                            <p>
-                                Etiam sit amet orci eget eros faucibus tincidunt.
-                            </p>
-                        </div>
                     </li>
                     <li>
                         <div className="progress p85">
                             <div className="percentage"></div>
                             <span>85%</span>
                         </div>
-                        <div className="name">JavaScript</div>
-                        <div className="single-post-text">
-                            <p>
-                                Etiam sit amet orci eget eros faucibus tincidunt.
-                            </p>
-                        </div>
+                        <div className="name">Erlang</div>
                     </li>
                     <li>
                         <div className="progress p80">
                             <div className="percentage"></div>
                             <span>80%</span>
                         </div>
-                        <div className="name">Angular</div>
-                        <div className="single-post-text">
-                            <p>
-                                Etiam sit amet orci eget eros faucibus tincidunt.
-                            </p>
-                        </div>
+                        <div className="name">ReactJS</div>
                     </li>
                     <li>
                         <div className="progress p95">
                             <div className="percentage"></div>
                             <span>95%</span>
                         </div>
-                        <div className="name">HTML, CSS</div>
-                        <div className="single-post-text">
-                            <p>
-                                Etiam sit amet orci eget eros faucibus tincidunt.
-                            </p>
-                        </div>
+                        <div className="name">Java</div>
                     </li>
                     <li>
                         <div className="progress p90"> 
@@ -78,11 +54,6 @@ function Coding() {
                             <span>90%</span>
                         </div>
                         <div className="name">Python</div>
-                        <div className="single-post-text">
-                            <p>
-                                Etiam sit amet orci eget eros faucibus tincidunt.
-                            </p>
-                        </div>
                     </li>
                 </ul>
             </div>

@@ -13,35 +13,42 @@ function About() {
                 <div className="cols">
                     <div className="col">
                         <div className="single-post-text">
-                            <p>
-                                Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
-                            </p>
+                            <img src="./images/story/aleksandar.jpg" width={"100%"}></img>
                         </div>
                     </div>
                     <div className="col">
                         <div className="single-post-text">
                             <p>
-                                Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
-                            </p>
-                        </div>
-                    </div>
-                    <div className="col col-full">
-                        <div className="single-post-text">
-                            <p>
-                                Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis.
+                            navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more:
                             </p>
                         </div>
                     </div>
                 </div>
 
+                <div className="cols">
+                <div className="col">
+                        <div className="single-post-text">
+                            <p>
+                            navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more:
+                            </p>
+                        </div>
+                    </div>
+                    <div className="col">
+                        <div className="single-post-text">
+                            <img src="./images/story/hong-kong-protests.jpg" width={"100%"}></img>
+                        </div>
+                    </div>
+                    
+                </div>
+
                 <div className="info-list">
                     <ul>
                         <li><strong>Age:</strong> 24</li>
-                        <li><strong>Residence:</strong> USA</li>
+                        <li><strong>Residence:</strong> Hong Kong</li>
                         <li><strong>Freelance:</strong> Available</li>
-                        <li><strong>Address:</strong> San Francisco</li>
-                        <li><strong>Phone:</strong> +1 256 254 84 56</li>
-                        <li><strong>E-mail:</strong> alejandroa@gmail.com</li>
+                        <li><strong>Address:</strong> Provo, Utah</li>
+                        <li><strong>Phone:</strong> +1 208 701 5159</li>
+                        <li><strong>E-mail:</strong> chikitleung.cs@gmail.com</li>
                     </ul>
                 </div>
 

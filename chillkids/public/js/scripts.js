@@ -13,33 +13,7 @@
 
 	$(window).on("load", function() {
 
-		/*
-			Preloader
-		*/
-		var preload = $('.preloader');
-		setTimeout(function(){
-			preload.find('.spinner').velocity({
-				opacity: '0',
-				translateY: '-40px'
-			}, {
-				duration: 400,
-				complete: function(){
-					preload.find('.box-1').velocity({
-						translateY: '-100%'
-					}, {
-						duration: 1000,
-						easing: [0.7,0,0.3,1]
-					});
-					preload.find('.box-2').velocity({
-						translateY: '-100%'
-					}, {
-						duration: 400,
-						easing: [0.7,0,0.3,1]
-					});
-				}
-			});
-		}, 1000);
-
+		
 		/*
 			Typed Subtitle
 		*/

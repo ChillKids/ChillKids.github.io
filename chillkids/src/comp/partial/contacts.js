@@ -1,6 +1,6 @@
 import React from 'react';
 
-function About() {
+function Contacts() {
   return (
     <div className="section contacts" id="section-contacts">
     <div className="content">
@@ -14,7 +14,7 @@ function About() {
             <form id="cform" method="post">
                 <div className="group-val">
                     <div className="label">Full name <strong>*</strong></div>
-                       <input type="text" name="name" placeholder="ej.: Genoveva Lian Hullt" />
+                       <input type="text" name="name" placeholder="Enter Your Name" />
                 </div>
                 <div className="group-val">
                     <div className="label">Email address <strong>*</strong></div>
@@ -37,19 +37,17 @@ function About() {
         </div>
 
         <div className="contact-info">
-            <div className="name">Joe Wilson</div>
-            <div className="subname">Consultant & Mentor</div>
+            <div className="name">Jack Leung</div>
             <div className="info-list">
                 <ul>
                     <li><strong>Age:</strong> 24</li>
-                    <li><strong>Residence:</strong> USA</li>
+                    <li><strong>Residence:</strong> HKG</li>
                     <li><strong>Freelance:</strong> Available</li>
-                    <li><strong>Address:</strong> San Francisco</li>
-                    <li><strong>Phone:</strong> +1 256 254 84 56</li>
-                    <li><strong>E-mail:</strong> alejandroa@gmail.com</li>
+                    <li><strong>Address:</strong> Provo, Utah</li>
+                    <li><strong>G-mail:</strong> chikitleung.cs</li>
                 </ul>
             </div>
-            <div className="author">Joe Wilson</div>
+            <div className="author">Jack Leung</div>
         </div>
 
         <div className="clear"></div>
@@ -58,4 +56,4 @@ function About() {
   );
 }
 
-export default About;
+export default Contacts;

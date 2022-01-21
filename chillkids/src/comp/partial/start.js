@@ -13,26 +13,14 @@ function Start() {
             <div className="started-content">
 
                 <div className="h-subtitles">
-                    <div className="h-subtitle typing-subtitle">
-                        <p>Consultant and Mentor</p>
-                        <p>Web Designer</p>
-                        <p>Programmer</p>
+                    <div className="h-subtitle">
+                        <p>Software Engineer</p>
                     </div>
-                    <span className="typed-subtitle"></span>
                 </div>
 
                 <div className="h-text">
-                    Hello! I am Web Developer from United States, New York. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.
+                   Hi, I am a software developer from Hong Kong. Contributing in a decentralized world is my goal in my career path. I am also experienced in web developer and software design.  
                 </div>
-
-                <a href="./" className="btn">
-                    <span className="animated-button"><span>Contact Me</span></span>
-                    <i className="icon fas fa-chevron-right"></i>
-                </a>
-
-                <a href="./" className="btn mouse-btn" style={{display: 'none'}}>
-                    <i className="icon fas fa-chevron-down"></i>
-                </a>
 
             </div>
 

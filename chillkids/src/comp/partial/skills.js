@@ -6,27 +6,27 @@ function Skills() {
             <div className="content">
 
                 <div className="titles">
-                    <div className="title">Design Skills</div>
+                    <div className="title">Cloud Skills</div>
                     <div className="subtitle">Creative ability</div>
                 </div>
 
                 <div className="skills percent">
                     <ul>
                         <li>
-                            <div className="name">Web Layout</div>
+                            <div className="name">Amazon Web Service</div>
                             <div className="single-post-text">
                                 <p>
                                     Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh.
                                 </p>
                             </div>
                             <div className="progress">
-                                <div className="percentage" style={{width: 90}}>
-                                    <span className="percent">90%</span>
+                                <div className="percentage" style={{width: 50}}>
+                                    <span className="percent">50%</span>
                                 </div>
                             </div>
                         </li>
                         <li>
-                            <div className="name">Illustrations</div>
+                            <div className="name">Microsoft Azure</div>
                             <div className="single-post-text">
                                 <p>
                                     Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh.
@@ -39,7 +39,7 @@ function Skills() {
                             </div>
                         </li>
                         <li>
-                            <div className="name">Photoshop</div>
+                            <div className="name">Embeded System</div>
                             <div className="single-post-text">
                                 <p>
                                     Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh.
@@ -52,7 +52,7 @@ function Skills() {
                             </div>
                         </li>
                         <li>
-                            <div className="name">Graphic Design</div>
+                            <div className="name">Web Design</div>
                             <div className="single-post-text">
                                 <p>
                                     Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh.

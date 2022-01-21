@@ -5,15 +5,14 @@ function Header() {
     <header className="header">
 
 			<div className="logo">
-				<a href="./">
-					<img className="logo-img" src="images/logo.png" alt="" />
-					<span className="logo-lnk">Jack <br />Leung</span>
+				<a href="#">
+					<span className="logo-lnk">Jack Leung</span>
 				</a>
 			</div>
 
 			<a href="./" className="menu-btn"><span></span></a>
 				
-			<a href="./" className="btn download-cv-btn">
+			<a href="./CV/resume.pdf" className="btn download-cv-btn">
 				<span className="animated-button"><span>Download CV</span></span>
 				<i className="icon fas fa-download"></i>
 			</a>
